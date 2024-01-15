@@ -20,7 +20,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Awesome theme",
+        "label": "Awesome Rewax theme",
         "uiTheme": "vs",
         "path": "./theme/Awesome theme-color-theme.json"
       }

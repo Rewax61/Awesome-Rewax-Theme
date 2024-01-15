@@ -1,0 +1,37 @@
+{
+  "name": "awesome-rewax-theme",
+  "displayName": "Awesome Rewax theme",
+  "description": "An AWESOME theme for vscode",
+  "version": "0.0.1",
+  "author": {
+    "name": "Rewax61"
+  },
+  "publisher": "Rewax61",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rewax61/Awesome-Theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Awesome theme",
+        "uiTheme": "vs",
+        "path": "./theme/Awesome theme-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "Rewax",
+    "Rewax61",
+    "Light theme",
+    "Awesome",
+    "Awesome theme",
+    "multicolored"
+  ]
+}

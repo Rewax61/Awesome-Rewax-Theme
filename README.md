@@ -1,6 +1,6 @@
 # Awesome Rewax theme
 
-![Awesome Rewax theme](image-theme.png "Awesome theme for vscode")
+![Awesome Rewax theme](https://raw.githubusercontent.com/Rewax61/Awesome-Rewax-Theme/main/image-theme.png "Awesome theme for vscode")
 
 ## Description
 

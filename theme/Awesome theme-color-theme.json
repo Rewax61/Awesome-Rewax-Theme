@@ -1021,7 +1021,7 @@
 		"name": "illegal",
 		"scope": "invalid.illegal.bad-ampersand.html",
 		"settings": {
-		  "foreground": "#000000"
+		  "foreground": "#df1920"
 		}
 	  },
 	  {
@@ -1940,7 +1940,7 @@
 	  "input.placeholderForeground": "#767676",
 	  "textLink.foreground": "#006ab1",
 	  "editor.background": "#ffffff",
-	  "editor.foreground": "#000000",
+	  "editor.foreground": "#494949",
 	  "editorLineNumber.foreground": "#237893",
 	  "editorCursor.foreground": "#000000",
 	  "editorCursor.background": "#ffffff",

@@ -4,6 +4,12 @@ All notable changes to the "awesome-rewax-theme" extension will be documented in
 
 ## [Unreleased]
 
+## [0.1.0] - 16-01-2024
+
+### Changed
+
+- Change black color of editor foreground to #494949.
+
 ## [0.0.2] - 14-01-2024
 
 ### Fixed

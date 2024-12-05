@@ -4,6 +4,11 @@ All notable changes to the "awesome-rewax-theme" extension will be documented in
 
 ## [Unreleased]
 
+## [0.1.1] - 05-12-2024
+
+### Added
+- LICENSE file
+
 ## [0.1.0] - 16-01-2024
 
 ### Changed
